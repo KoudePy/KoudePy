@@ -11,7 +11,7 @@
 *Streamlit Web App*  
 IRCC-based analysis of immigration trends in Canada  
 **Tech:** Python, SQLite, Streamlit, Pandas  
-🔗 [View the project](https://massive-poultry-322.notion.site/Koudedia-Magassa-Data-Portfolio-1f24d54ec86d8061b662eb1f9de5f28a)
+🔗 [View the project](https://github.com/KoudePy/Destination-Canada)
 
 ---
 
